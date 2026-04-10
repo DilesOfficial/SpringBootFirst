@@ -13,8 +13,7 @@ public class SpringBootFirstApplication {
         Alien obj = context.getBean(Alien.class);
         obj.code();
 
-        Alien obj2 = context.getBean(Alien.class);
-        obj2.code();
+
 
     }
 
