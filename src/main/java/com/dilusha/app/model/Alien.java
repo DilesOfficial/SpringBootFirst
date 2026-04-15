@@ -1,4 +1,4 @@
-package com.dilusha.app;
+package com.dilusha.app.model;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
