@@ -1,4 +1,4 @@
-package com.dilusha.app;
+package com.dilusha.app.model;
 
 public interface Computer {
 
